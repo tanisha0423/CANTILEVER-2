@@ -33,3 +33,7 @@ In this test scenario, a Spotify login page was generated using Zphisher.
 When I entered a test username and password into the page, the credentials were captured and displayed in the test environment terminal/record.
 
 This demonstrated how attackers can trick users into entering sensitive information on a fake page, and how such data is immediately visible to the attacker’s terminal.
+
+- `commands.md` — contains the commands I ran.  
+- `output.pdf` — contains exported output and screenshots of the test run.
+
